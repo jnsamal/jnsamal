@@ -1,6 +1,6 @@
 - Hey, I’m Jagadish
 - I’m interested in Web Development.
-- I’m currently learning Javascript
+- I’m currently learning PHP.
 - If you want to reach out to me or have any suggestions regarding anything, you can contact me through my linkdin- https://www.linkedin.com/in/jagadish-narayan-samal-497749231/
 
 <!---
