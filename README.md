@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning php and mysql.<br>I am familiar with html, css, javascript and react.js.<br>My hobbies are cycling and running.<br>I am into competitive programming where I use c++ as my go to language.
+Hello there,<br>I am a backend developer in PHP and MySQL. I am also familiar with HTML, CSS, Javascript and React.js.
 
 
 ## 🌐 Socials:
