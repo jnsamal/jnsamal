@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello there,<br>I am a backend developer in PHP and MySQL. I am also familiar with HTML, CSS, Javascript and React.js.
+Languages: HTML, CSS, Javascript, React.js, PHP, MySQL
+Tools: Vitual Studios Code, Cluade, Deepseek, ChatGPT, Cursor
+Version Control: Git
+Hobbies: Cycling, Running
+Goal: Code daily and just make enough to sustain in the economy :)
 
 
 ## 🌐 Socials:
